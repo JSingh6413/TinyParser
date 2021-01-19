@@ -1,4 +1,4 @@
-# TinyParser
+# TinyScraper
 A simple wrapper for Bing and Google images downloaders.
 
 Wraps installation of [Google Images Download](https://github.com/hardikvasa/google-images-download) and [Bing Image Downloader](https://github.com/gurugaurav/bing_image_downloader) with python 3 _virtualenv_. 
