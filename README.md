@@ -7,7 +7,7 @@ Also adds some bug fixes in the original code for the better compatibility with 
 
 # Requires
 * __Google Chrome browser__
-* __chromedrive__ (can be load [here](https://chromedriver.chromium.org/))
+* __chromedriver__ (can be load [here](https://chromedriver.chromium.org/))
 
 # Install
 __git clone__ https://github.com/JSingh6413/TinyScraper.git \

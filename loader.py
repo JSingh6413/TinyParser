@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 from bing_image_downloader.downloader import download
 from google_images_download import google_images_download
 
@@ -20,7 +22,7 @@ arguments = {
     "keywords": query_string,
     "limit": n_samples,
     "print_urls": True,
-    "chromedriver": "../chromedriver",
+    "chromedriver": "chromedriver",
     "output_directory": "images/google"
 }
 
